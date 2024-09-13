@@ -1,6 +1,14 @@
 # **Real Estate Company Database Management Project / Proiect de Gestionare a Bazei de Date pentru o Companie Imobiliară**
 
-This project aims to efficiently manage a real estate company's database, facilitating real estate transactions between clients and owners through agents across the country. The main goal is to provide a centralized and easily accessible solution for all parties involved in real estate transactions, thereby improving customer experience and agent efficiency.
+*******************************************************
+### *IMPORTANT*
+*This project was developed by me during my time at university and was created using online resources and domain-specific books as sources of inspiration. The goal of this project was to explore and learn through practical examples, combining various information and techniques found in these resources to bring it to completion. I would like to mention that the source code of this project is posted on GitHub, but it is set to private to avoid any form of plagiarism, as it is the result of my own personal work.*
+
+*Acest proiect a fost realizat de mine în timpul facultății și a fost creat folosind resurse de pe internet și cărți de specialitate drept surse de inspirație. Scopul acestui proiect a fost să explorez și să învăț prin intermediul unor exemple practice, combinând diverse informații și tehnici găsite în aceste resurse pentru a-l aduce la bun sfârșit. Menționez că codul sursă al acestui proiect este postat pe GitHub, dar este setat pe privat pentru a evita orice formă de plagiat, deoarece este rezultatul muncii mele personale.*
+*******************************************************
+
+This project aims to efficiently manage a real estate company's database, facilitating real estate transactions between clients and owners through agents across the country. The main goal is to provide a centralized and easily accessible solution for all parties involved in real estate transactions, thereby improving customer experience and agent efficiency.                     
+Acest proiect își propune să gestioneze eficient baza de date a unei companii imobiliare, facilitând tranzacțiile imobiliare între clienți și proprietari prin agenți din toată țara. Scopul principal este de a oferi o soluție centralizată și ușor accesibilă pentru toate părțile implicate în tranzacțiile imobiliare, îmbunătățind astfel experiența clienților și eficiența agenților.
 
 ## **Descrierea Tabelelor / Table Descriptions**
 
