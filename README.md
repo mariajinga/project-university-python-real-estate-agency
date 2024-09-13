@@ -75,7 +75,18 @@ By combining data from these CSV files and using algorithms and methods from the
 - **Utilizarea pachetului scikit-learn (clusterizare, regresie logistică) / Using the Scikit-Learn Package (Clustering, Logistic Regression)**
 - **Utilizarea pachetului statmodels (regresie multiplă) / Using the Statsmodels Package (Multiple Regression)**
 
+*******************************************************
+## Graphical Representation of Data / Reprezentare grafică a datelor
 ![14](https://github.com/user-attachments/assets/4924cde1-91c6-482a-aa2b-b11ee5170823)
 *******************************************************
 ![15](https://github.com/user-attachments/assets/b4d7ee3d-a56a-406c-9973-fd0f27d4f98a)
+*******************************************************
+## Code and results / Cod și rezultate
+![1](https://github.com/user-attachments/assets/bdea2405-e8b5-41c1-b865-3d83c504275f)
+*******************************************************
+![2](https://github.com/user-attachments/assets/a0bc5396-6a65-4551-93df-aff2aec05884)
+*******************************************************
+![3](https://github.com/user-attachments/assets/2b7773e9-e896-48b5-a330-3d7bcf5bc4a2)
+*******************************************************
+![4](https://github.com/user-attachments/assets/fa747643-050e-444d-a5fa-f3bdbe40e2a0)
 ---
